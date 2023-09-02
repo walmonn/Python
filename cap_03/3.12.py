@@ -8,5 +8,4 @@ horas = int(tempo_s / 3600)
 tempo_s = int(tempo_s % 3600)
 minutos = int(tempo_s / 60)
 segundos = int(tempo_s % 60)
-
 print(f"O Tempo total de Viagem de uma distancia percorrida de {distancia:.0f}Km a uma velocidade de {velocidade:.0f}Km/h é de {horas}horas , {minutos}minutos e {segundos}segundos.")
