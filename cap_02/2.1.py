@@ -8,3 +8,6 @@ print(exp02)
 
 exp03 = (9**4 + 2) * 6 - 1
 print(exp03)
+
+exp04 = (3**2 + 6) * 4 + 2
+print(exp04)
